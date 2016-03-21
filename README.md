@@ -26,3 +26,18 @@ sudo apt-get install elementary-tweaks
 sudo apt-add-repository ppa:numix/ppa 
 sudo apt-get update 
 sudo apt-get install numix-icon-theme-circle 
+# Програмы для востановления системы
+Установка Systemback 
+позволяет востанавливать систему и создавать точки а также создавать live образы системы 
+compizomania.blogspot.com/2014/07/systemback-linux.html?showComment=1404884898999#c4556768932382032390 
+
+sudo add-apt-repository ppa:nemh/systemback 
+sudo apt-get update 
+sudo apt-get install systemback 
+
+Если вы решили удалить Systemback из системы, выполните этикоманды в терминале: 
+
+sudo add-apt-repository -r ppa:nemh/systemback 
+sudo apt-get update 
+sudo apt-get purge systemback 
+
