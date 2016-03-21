@@ -41,3 +41,7 @@ sudo add-apt-repository -r ppa:nemh/systemback
 sudo apt-get update 
 sudo apt-get purge systemback 
 
+# Удаляем не нужные фигни
+sudo apt-get remove midori* 
+sudo apt-get remove noise* 
+sudo apt-get remove geary* 
