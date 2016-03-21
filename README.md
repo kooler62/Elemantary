@@ -1,6 +1,10 @@
 # Elementary
 
-
+VLC
+dconf
+Audacious
+FilleZilla 
+sudo apt install dconf-tools
 
 
 
