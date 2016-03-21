@@ -49,3 +49,10 @@ sudo apt-get purge systemback
 sudo apt-get remove midori* 
 sudo apt-get remove noise* 
 sudo apt-get remove geary* 
+
+
+
+
+установка мозиллі
+sudo apt-get install firefox-locale-ru
+
