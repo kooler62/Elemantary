@@ -9,5 +9,6 @@
 перевести язык, желательно не переводить системные папки 
 
 
-# apt-get install aptitude
-# aptitude install firefox-locale-ru
+sudo apt-get install aptitude
+sudo aptitude install firefox-locale-ru
+install firefox with app-srore
