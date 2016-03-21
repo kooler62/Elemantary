@@ -1,9 +1,9 @@
 # Elementary
 
-VLC
-dconf
-Audacious
-FilleZilla 
+VLC  
+dconf    
+Audacious  
+FilleZilla   
 sudo apt install dconf-tools
 gnome-tweak-tool
 
