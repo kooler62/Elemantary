@@ -4,6 +4,11 @@ VLC
 dconf    
 Audacious  
 FilleZilla   
+QtQr
+Systemback  
+Timeshift  
+WPS office
+
 sudo apt install dconf-tools
 gnome-tweak-tool
 
