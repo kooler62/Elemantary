@@ -5,7 +5,7 @@ dconf
 Audacious
 FilleZilla 
 sudo apt install dconf-tools
-
+gnome-tweak-tool
 
 
 Добавить языки системы 
